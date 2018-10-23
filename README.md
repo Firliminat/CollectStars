@@ -1,4 +1,5 @@
 # CollectStars
+
 Petit exemple de jeu de collection d'étoiles en ruby avec la librairie Gosu.
 contrôles : flêches du clavier
 options :
